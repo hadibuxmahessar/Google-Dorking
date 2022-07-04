@@ -1,0 +1,19 @@
+with specific file type:
+	search term: file type: type
+	e.g larkana:file type: pdf
+
+must include
+	"search term"
+	e.g "larkana"
+
+from specific web
+	search term site:web
+	e.g. docker issue site:stackoverflow.com
+order
+	file type keyword site
+
+site:www.example.com inurl:searchterm
+
+site: www.example.com intitle: searchterm
+
+site: wwww.example.com filetype:pdf
